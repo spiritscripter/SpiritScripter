@@ -35,7 +35,7 @@ Description of your project.
 
 - [LinkedIn](https://www.linkedin.com/in/emmanuel-ashitey-310888158/)
 - [Twitter](https://twitter.com/EmmanuelAshit18)
-- [Portfolio](https://yourportfolio.com)
+- [Portfolio](https://flowcv.me/emmanuel-ashitey)
 
 ## 📈 GitHub Stats
 
