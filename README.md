@@ -39,7 +39,7 @@ Description of your project.
 
 ## 📈 GitHub Stats
 
-[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=EAshitey&show_icons=true&count_private=true)]
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=EAshitey&show_icons=true&count_private=true)
 
 ## 👨‍💻 Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EAshitey&hide_progress=true)
