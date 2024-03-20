@@ -25,11 +25,11 @@ Welcome to my GitHub profile! I'm enthusiastic about creating software and explo
 
 ## 🚀 My Projects
 
-### Project 1
+### MyMTN App Clone
 
-Description of your project.
+MyMTN is a clone of the official MTN Ghana app focusing solely on replicating the user interface. It allows you to explore the layout and design of the app without any funtional features(for now).
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Mr-Ashitey&repo=Mobi-Grocery-Shopping-2)](https://github.com/Mr-Ashitey/Mobi-Grocery-Shopping-2)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EAshitey&repo=my_mtn_app_clone)](https://github.com/EAshitey/my_mtn_app_clone )
 
 ## 🌐 Connect with Me
 
