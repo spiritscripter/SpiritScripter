@@ -29,7 +29,7 @@ Welcome to my GitHub profile! I'm enthusiastic about creating software and explo
 
 MyMTN is a clone of the official MTN Ghana app focusing solely on replicating the user interface. It allows you to explore the layout and design of the app without any funtional features(for now).
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EAshitey&repo=my_mtn_app_clone)](https://github.com/EAshitey/my_mtn_app_clone )
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=spiritscripter&repo=my_mtn_app_clone)](https://github.com/spiritscripter/my_mtn_app_clone )
 
 ## 🌐 Connect with Me
 
@@ -39,10 +39,10 @@ MyMTN is a clone of the official MTN Ghana app focusing solely on replicating th
 
 ## 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=EAshitey&show_icons=true&count_private=true)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=spiritscripter&show_icons=true&count_private=true)
 
 ## 👨‍💻 Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EAshitey&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spiritscripter&hide_progress=true)
 
 ## 🎉 Thanks for visiting!
 
