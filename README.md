@@ -25,11 +25,11 @@ Welcome to my GitHub profile! I'm enthusiastic about creating software and explo
 
 ## 🚀 My Projects
 
-### MyMTN App Clone
+### Email Sanity (Flutter Package)
 
-MyMTN is a clone of the official MTN Ghana app focusing solely on replicating the user interface. It allows you to explore the layout and design of the app without any funtional features(for now).
+Email Sanity is a Flutter package designed to validate and sanitize email addresses by checking them against a configurable list of email providers, aliases, and valid domains. It helps ensure emails meet specific formatting and domain requirements, making it ideal for applications that require strict email validation.
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=spiritscripter&repo=my_mtn_app_clone)](https://github.com/spiritscripter/my_mtn_app_clone )
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=spiritscripter&repo=email_sanity)](https://github.com/spiritscripter/email_sanity )
 
 ## 🌐 Connect with Me
 
